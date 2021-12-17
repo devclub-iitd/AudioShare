@@ -3,7 +3,7 @@
 A desktop application to watch video on a common screen with friends and stream the audio on your individual device so that you are never frustrated by the sound quality of your laptop speaker.
 
 ## Installing
-Grab the latest .zip or .deb from [releases](https://github.com/Harsh14901/AudioShare/releases).
+Grab the latest .zip or .deb from [releases](https://github.com/devclub-iitd/AudioShare/releases).
 
 ### Linux
 This project requires 2 additional dependencies - `ffmpeg` and `vlc`.
